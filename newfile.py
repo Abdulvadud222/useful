@@ -1,4 +1,4 @@
-# this is a trial file to see if i can execute basic git commmand
+# this is a trial file to see if i can execute basic git commmandss
 
 
 
